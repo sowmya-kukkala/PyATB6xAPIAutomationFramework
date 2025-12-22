@@ -13,17 +13,29 @@ A Hybrid Custom API Automation Framework built using Python and PyTest, designed
 
 # 📂 Project Structure
 python-api-automation-framework/
+
 │
+
 ├── config/              # Environment & configuration files
+
 ├── data/                # Test data (CSV, Excel, JSON)
+
 ├── helpers/             # Utility & helper methods
+
 ├── payloads/            # Request payloads
+
 ├── schemas/             # JSON schema validations
+
 ├── tests/
+
 │   ├── crud/             # CRUD-based API tests
+
 │   └── conftest.py       # PyTest fixtures
+
 ├── reports/             # Test execution reports
+
 ├── requirements.txt     # Project dependencies
+
 └── README.md
 
 # 🛠 Tech Stack
