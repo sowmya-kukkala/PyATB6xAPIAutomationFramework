@@ -4,13 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b2e0c6-eb5f-4d06-bebf-e97e47b6ac9f" name="Changes" comment="Updated 'README.md' file details">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="50b2e0c6-eb5f-4d06-bebf-e97e47b6ac9f" name="Changes" comment="Updated 'README.md' file with project structure details">
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/endpoints/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/endpoints/api_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/payload_manager/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/payload_manager/payload_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/verification/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/verification/common_verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/wrapper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/wrapper/api_requests_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/CRUD/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/e2e/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/sample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/sample/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +71,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sowmya\PycharmProjects\PyATB6xAPIAutomationFramework\src\modules" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,12 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766403874498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated 'README.md' file with project structure details">
+      <option name="closed" value="true" />
+      <created>1766404177372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766404177372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Updated 'README.md' file details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated 'README.md' file details" />
+    <MESSAGE value="Updated 'README.md' file with project structure details" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated 'README.md' file with project structure details" />
   </component>
 </project>
