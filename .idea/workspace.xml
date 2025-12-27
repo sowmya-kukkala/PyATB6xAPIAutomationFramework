@@ -4,26 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b2e0c6-eb5f-4d06-bebf-e97e47b6ac9f" name="Changes" comment="Updated 'README.md' file with project structure details">
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/endpoints/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/endpoints/api_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/payload_manager/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/payload_manager/payload_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/verification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/verification/common_verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/wrapper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/wrapper/api_requests_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/CRUD/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/e2e/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/sample/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/sample/test_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
+    <list default="true" id="50b2e0c6-eb5f-4d06-bebf-e97e47b6ac9f" name="Changes" comment="Folder Structure is ready">
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_booking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/endpoints/api_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/endpoints/api_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/payload_manager/payload_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/payload_manager/payload_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/verification/common_verification.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/verification/common_verification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/wrapper/api_requests_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/wrapper/api_requests_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/CRUD/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crud/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/sample/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/sample/test_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,37 +30,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sowmya-kukkala"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sowmya-kukkala&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sowmya-kukkala/PyATB6xAPIAutomationFramework.git",
-    "accountId": "60615113-c394-4bd4-b285-8bdbe67c4af7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sowmya-kukkala/PyATB6xAPIAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;60615113-c394-4bd4-b285-8bdbe67c4af7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="37C2B7fhvUyTSrAHuQwLFCZZyJl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sowmya\PycharmProjects\PyATB6xAPIAutomationFramework\src\modules" />
@@ -115,13 +105,22 @@
       <option name="project" value="LOCAL" />
       <updated>1766404177372</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Folder Structure is ready">
+      <option name="closed" value="true" />
+      <created>1766584953453</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766584953453</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Updated 'README.md' file details" />
     <MESSAGE value="Updated 'README.md' file with project structure details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated 'README.md' file with project structure details" />
+    <MESSAGE value="Folder Structure is ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folder Structure is ready" />
   </component>
 </project>
